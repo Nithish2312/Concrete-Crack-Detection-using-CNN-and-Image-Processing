@@ -1,5 +1,5 @@
 # Concrete Crack Detection
-A project to efficiently detect concrete cracks by using robert's filter to separate necessary features over unwanted ones
+A project to efficiently detect concrete cracks by implementing Robert's filter to filter necessary features over unwanted ones
 
 ## Requirements/Libraries:
 * Python 3.6.9
